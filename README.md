@@ -9,11 +9,11 @@ road accidents, highlighting key trends and statistic.
 Uncleaned Dataset linl-https://drive.google.com/file/d/1EoTIsi01lpQ3Rvii8OVR8r-g3E_uqXQj/view
 
 # Requirement
- *Primary KPI- Total casualties taken place  after accident
- *Primary KPI's-Total casualties& percentage of total with respect to accident sevarity and maximum casualties by type of vehicle
- *Secondary KPI's-Total casualties with respect to vehicle type 
- *Monthly trend showing comparison of casualties for current and previous year
- *Maximum casualties by road type
+ * Primary KPI- Total casualties taken place  after accident
+ * Primary KPI's-Total casualties& percentage of total with respect to accident sevarity and maximum casualties by type of vehicle
+ * Secondary KPI's-Total casualties with respect to vehicle type 
+ * Monthly trend showing comparison of casualties for current and previous year
+ * Maximum casualties by road type
  * distribution of casualties by road surface
  * Relation between Area/Location and Day/night
 # Data cleaning 
